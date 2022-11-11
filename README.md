@@ -1,0 +1,1 @@
+This project has created for learning about packages, class and call methods in a different files. They are manipulated and the called in main.py file
